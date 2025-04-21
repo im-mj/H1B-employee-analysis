@@ -5,7 +5,8 @@ This project explores patterns in H1B visa applications using real-world employe
 ## 📁 Files Included
 
 - `H1B_Employee_Analysis.ipynb` — Python notebook for data analysis.
-- `Employer Information111.xlsx` — Dataset containing H1B employer and visa information.
+- `Employer Information.xlsx` — Dataset containing H1B employer and visa information.
+- `Texas Economy` — Dataset containing Texas economic development over 2009 - 2024: GDP (tx_gdp) and Unemployment rate (tx_ur).
 
 ## 🎯 Objectives
 
